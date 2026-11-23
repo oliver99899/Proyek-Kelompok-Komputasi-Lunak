@@ -1,0 +1,3 @@
+﻿Sumber,N_baris,N_WBGT_valid,N_WBGT_kosong_atau_nonnumerik,N_WBGT_nonfinite,N_timestamp_terisi,N_timestamp_berulang,N_pasangan_waktu_WBGT_berulang,N_di_bawah_15C,N_di_dalam_domain_15_32_5C,N_di_atas_32_5C,Min_C,P25_C,Median_C,Mean_C,P75_C,SD_C,Max_C,Jumlah_nilai_WBGT_unik
+Outdoor,732,732,0,0,732,0,0,0,670,62,22.43,25.63,27.1,27.347841530054648,28.2925,2.7921367969305466,38.23,453
+Indoor,689,689,0,0,689,0,0,0,689,0,22.51,23.92,24.96,24.83207547169811,25.67,0.9458057135501534,26.5,293

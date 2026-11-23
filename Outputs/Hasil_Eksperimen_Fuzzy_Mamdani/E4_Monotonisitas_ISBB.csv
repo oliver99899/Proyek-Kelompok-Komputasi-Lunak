@@ -1,0 +1,5 @@
+﻿Kategori_beban,N_titik_grid,N_pelanggaran_monotonicity_T,N_transisi_VALID_ke_status,N_transisi_status_ke_VALID,Contoh_pelanggaran
+Ringan,1751,0,0,0,[]
+Sedang,1751,0,1,0,[]
+Berat,1751,0,1,0,[]
+Sangat berat,1751,0,1,0,[]

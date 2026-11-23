@@ -1,0 +1,9 @@
+HASIL EKSPERIMEN FUZZY MAMDANI
+
+Dataset: Ahmadinejad (2026), Mendeley Data, DOI 10.17632/dhmrbvdm9t.1.
+
+Isi folder meliputi data WBGT aktual, audit provenance, tabel spesifikasi model, fungsi keanggotaan, kategori beban, ambang regulasi, 25 aturan, perhitungan manual, hasil E1–E5, grafik Bab II, grafik eksperimen, ringkasan laporan, dan daftar pustaka APA edisi ke-7.
+
+Empat kategori beban kerja merupakan skenario hipotetis, bukan data pengamatan pekerja. WBGT lapangan tidak boleh diatribusikan kepada prototipe atau perangkat referensi jika dokumentasi tidak menyatakan asal instrumennya. Data lapangan tidak menyediakan pasangan WBGT referensi independen untuk setiap rekaman. Pemeriksaan konsistensi rumus WBGT tidak sama dengan validasi akurasi sensor. E5 merupakan simulasi sensitivitas bersyarat berdasarkan residual laboratorium dan bukan validasi kesalahan sensor lapangan.
+
+Perbandingan E3 merupakan evaluasi kesesuaian keluaran dengan interval tabel regulasi yang menjadi dasar model. Hasil tidak membuktikan efektivitas keselamatan, respons fisiologis, produktivitas, atau jadwal istirahat pekerja.

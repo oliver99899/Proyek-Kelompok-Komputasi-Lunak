@@ -1,0 +1,4 @@
+﻿Kasus,ISBB_C,Kategori_beban,Status,Regimen_lookup,Luas_agregasi,Momen_agregasi,Centroid_FIS_persen,Batas_atas_U,Waktu_kerja_akhir_persen,Waktu_istirahat_persen,Menit_kerja_per_jam,Menit_istirahat_per_jam,Aturan_aktif
+1,27.5,Ringan,VALID,P75-100,37.5,3281.25,87.5,100.0,87.5,12.5,52.5,7.5,R01
+2,28.5,Sedang,VALID,P50-75,34.375,2578.1250000000005,75.00000000000001,75.0,75.0,25.0,45.0,15.0,"R06, R10"
+3,30.25,Berat,VALID,P0-25,21.875,273.4375,12.5,25.0,12.5,87.5,7.5,52.5,"R15, R19"

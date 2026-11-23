@@ -1,0 +1,17 @@
+Ahmadinejad, P. (2026). Design, development, and performance evaluation of a low-cost IoT-based system for real-time occupational heat stress monitoring (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/dhmrbvdm9t.1
+
+Deshayes, T. A., Hsouna, H., Braham, M. A. A., Arvisais, D., Pageaux, B., Ouellet, C., Jay, O., Maso, F. D., Begon, M., Saïdi, A., Gendron, P., & Gagnon, D. (2024). Work–rest regimens for work in hot environments: A scoping review. American Journal of Industrial Medicine, 67(4), 304–320. https://doi.org/10.1002/ajim.23569
+
+Flouris, A. D., Dinas, P. C., Ioannou, L. G., Nybo, L., Havenith, G., Kenny, G. P., & Kjellstrom, T. (2018). Workers’ health and productivity under occupational heat strain: A systematic review and meta-analysis. The Lancet Planetary Health, 2(12), e521–e531. https://doi.org/10.1016/S2542-5196(18)30237-7
+
+International Organization for Standardization. (2017). Ergonomics of the thermal environment—Assessment of heat stress using the WBGT (wet bulb globe temperature) index (ISO 7243:2017). https://www.iso.org/standard/67188.html
+
+Kementerian Ketenagakerjaan Republik Indonesia. (2018). Peraturan Menteri Ketenagakerjaan Republik Indonesia Nomor 5 Tahun 2018 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja. https://jdih.kemnaker.go.id/asset/data_puu/Permen_5_2018.pdf
+
+Mamdani, E. H., & Assilian, S. (1975). An experiment in linguistic synthesis with a fuzzy logic controller. International Journal of Man-Machine Studies, 7(1), 1–13. https://doi.org/10.1016/S0020-7373(75)80002-2
+
+Occupational Safety and Health Administration. (n.d.). OSHA Technical Manual (OTM): Section III, Chapter 4—Heat stress. U.S. Department of Labor. https://www.osha.gov/otm/section-3-health-hazards/chapter-4
+
+Ross, T. J. (2010). Fuzzy logic with engineering applications (3rd ed.). John Wiley & Sons. https://doi.org/10.1002/9781119994374
+
+Zadeh, L. A. (1965). Fuzzy sets. Information and Control, 8(3), 338–353. https://doi.org/10.1016/S0019-9958(65)90241-X

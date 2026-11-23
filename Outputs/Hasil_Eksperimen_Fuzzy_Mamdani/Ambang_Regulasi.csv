@@ -1,0 +1,17 @@
+﻿Kategori_beban,Kode_beban,Interval_waktu_kerja,Ambang_ISBB_C
+Ringan,1,P75-100,31.0
+Ringan,1,P50-75,31.0
+Ringan,1,P25-50,32.0
+Ringan,1,P0-25,32.5
+Sedang,2,P75-100,28.0
+Sedang,2,P50-75,29.0
+Sedang,2,P25-50,30.0
+Sedang,2,P0-25,31.5
+Berat,3,P75-100,
+Berat,3,P50-75,27.5
+Berat,3,P25-50,29.0
+Berat,3,P0-25,30.5
+Sangat berat,4,P75-100,
+Sangat berat,4,P50-75,
+Sangat berat,4,P25-50,28.0
+Sangat berat,4,P0-25,30.0

@@ -1,0 +1,9 @@
+﻿Sumber,Kategori_beban_skenario,N_observasi,N_valid,N_melebihi_ambang,N_di_luar_domain,Persen_valid,Rerata_kerja_valid_persen,Median_kerja_valid_persen,Rerata_istirahat_valid_persen
+Indoor,Ringan,689,689,0,0,100.0,87.5,87.5,12.5
+Indoor,Sedang,689,689,0,0,100.0,87.5,87.5,12.5
+Indoor,Berat,689,689,0,0,100.0,62.5,62.5,37.5
+Indoor,Sangat berat,689,689,0,0,100.0,37.5,37.5,62.5
+Outdoor,Ringan,732,670,62,0,91.53005464480874,86.50640752905937,87.5,13.493592470940623
+Outdoor,Sedang,732,661,71,0,90.30054644808743,81.60802304932788,87.5,18.391976950672113
+Outdoor,Berat,732,653,79,0,89.20765027322405,53.67741489512001,62.5,46.322585104880005
+Outdoor,Sangat berat,732,647,85,0,88.3879781420765,33.66364861079342,37.5,66.33635138920658

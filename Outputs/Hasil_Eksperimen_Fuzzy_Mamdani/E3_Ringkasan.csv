@@ -1,0 +1,9 @@
+﻿Sumber,Kategori_beban_skenario,N_kasus_valid,Agreement_rate_persen,Lebih_restriktif_persen,Lebih_permisif_persen,Rerata_jarak_interval_pp,Guardrail_aktif_persen
+Indoor,Berat,689,100.0,0.0,0.0,0.0,0.0
+Indoor,Ringan,689,100.0,0.0,0.0,0.0,0.0
+Indoor,Sangat berat,689,100.0,0.0,0.0,0.0,0.0
+Indoor,Sedang,689,100.0,0.0,0.0,0.0,0.0
+Outdoor,Berat,653,100.0,0.0,0.0,0.0,7.197549770290965
+Outdoor,Ringan,670,100.0,0.0,0.0,0.0,0.7462686567164178
+Outdoor,Sangat berat,647,100.0,0.0,0.0,0.0,10.819165378670787
+Outdoor,Sedang,661,100.0,0.0,0.0,0.0,13.161875945537066

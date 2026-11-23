@@ -1,0 +1,26 @@
+﻿Aturan,Himpunan_ISBB,Kategori_beban,Himpunan_keluaran
+R01,T27.5,Ringan,P75-100
+R02,T27.5,Sedang,P75-100
+R03,T27.5,Berat,P50-75
+R04,T27.5,Sangat berat,P25-50
+R05,T28,Ringan,P75-100
+R06,T28,Sedang,P75-100
+R07,T28,Berat,P25-50
+R08,T28,Sangat berat,P25-50
+R09,T29,Ringan,P75-100
+R10,T29,Sedang,P50-75
+R11,T29,Berat,P25-50
+R12,T29,Sangat berat,P0-25
+R13,T30,Ringan,P75-100
+R14,T30,Sedang,P25-50
+R15,T30,Berat,P0-25
+R16,T30,Sangat berat,P0-25
+R17,T30.5,Ringan,P75-100
+R18,T30.5,Sedang,P0-25
+R19,T30.5,Berat,P0-25
+R20,T31,Ringan,P75-100
+R21,T31,Sedang,P0-25
+R22,T31.5,Ringan,P25-50
+R23,T31.5,Sedang,P0-25
+R24,T32,Ringan,P25-50
+R25,T32.5,Ringan,P0-25

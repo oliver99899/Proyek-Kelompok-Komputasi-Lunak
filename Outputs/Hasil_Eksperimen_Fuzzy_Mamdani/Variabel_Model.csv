@@ -1,0 +1,5 @@
+﻿Variabel,Jenis,Semesta,Satuan
+ISBB,Masukan numerik,"15–32,5",°C
+Beban kerja,Masukan kategorikal,1–4,Ringan; Sedang; Berat; Sangat berat
+Persentase waktu kerja,Keluaran fuzzy,"-12,5–112,5",%
+Persentase waktu istirahat,Keluaran turunan,0–100,%
